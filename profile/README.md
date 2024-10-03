@@ -1,5 +1,5 @@
-## Hi there 👋
-
+## Codelabs Politeknik Negeri Banyuwangi 👋
+Codelabs Politeknik Negeri Banyuwangi adalah komunitas mahasiswa yang berfokus pada pengembangan keterampilan di bidang teknologi informasi dan komunikasi. Komunitas ini berfungsi sebagai wadah bagi mahasiswa untuk belajar, berbagi pengetahuan, dan berkolaborasi dalam proyek-proyek teknologi.
 <!--
 
 **Here are some ideas to get you started:**
